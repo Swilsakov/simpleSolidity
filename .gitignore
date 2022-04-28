@@ -1,0 +1,8 @@
+.cache
+.idea
+.parcel-cache
+.DS_store
+dist
+node_modules
+output.css
+.env
